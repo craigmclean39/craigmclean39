@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **backend development using Express and Node.**
 
+- 👨‍💻 Check out my portfolio at [https://www.craigmclean.dev](https://www.craigmclean.dev)
+
 - 📫 How to reach me **craig@craigmclean.dev**
 
 <br>
