@@ -5,6 +5,8 @@
 
 <p>Hi, welcome to my github profile. My name is Craig and I love technology and problem solving. I used to make games back when motion controls were all the rage and micro transactions were barely an idea. Then I took a short 10 year detour and worked on ships, travelled the seven seas, and narrowly avoided scurvy. Now I'm looking to get back into programming and I've been teaching myself web development. I'm very comfortable with JavaScript, HTML, CSS, and the React framework. I'm currently learning Node and Express to round out my skills in a full technology stack. Take a look at some of my pinned projects and thanks for stopping by. 👋</p><br>
 
+- 🔭 I’m currently working on **a True Crime podcast database w/ Next.js, React, Node.js, Express, and Mantine**
+
 - 🌱 I’m currently learning **backend development using Express and Node.**
 
 - 👨‍💻 Check out my portfolio at [https://www.craigmclean.dev](https://www.craigmclean.dev)
